@@ -1,4 +1,4 @@
-package Session03;
+package com.tien.Session03;
 import java.util.*;
 public class Cau3 {
     public static void main(String[] args) {

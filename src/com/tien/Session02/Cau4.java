@@ -1,4 +1,4 @@
-package Session02;
+package com.tien.Session02;
 
 import java.util.Scanner;
 
